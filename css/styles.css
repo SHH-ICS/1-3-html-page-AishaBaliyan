@@ -1,0 +1,14 @@
+body {
+  background-color: powderblue;
+}
+
+h1 {
+    background-color: rgb(183, 110, 121);
+    color: hsl(351, 34%, 57%);
+    padding: 40px;
+    text-align: center
+  }
+
+p {
+  background-color:#ff00ff;
+}
